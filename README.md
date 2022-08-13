@@ -4,7 +4,7 @@
  
 | **Linkedin**  | **Twitter**  | **Gmail**  | **Website**  |
 |:-:|:-:|:-:|:-:|
-| <p align="center" ><a href="https://www.linkedin.com/in/danielebarile/" title="Linkedin"><img src="./svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a> </p>  |  <p align="center" ><a href="https://twitter.com/daniele__bai" title="Twitter"><img src="./svgs/twitter.svg" alt="Twitter" width="40px" height="40px"></a> </p>  | <p align="center" ><a href="mailto:daniele.barile.lavoro@gmail.com" title="Gmail"><img src="./svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a> </p>  | <p align="center" ><a href="https://mylifeblike.netlify.app/" title="Website"><img src="./svgs/website.svg" alt="Website" width="40px" height="40px"></a> </p>  |
+| <p align="center" ><a href="https://www.linkedin.com/in/danielebarile/" title="Linkedin"><img src="./svgs/linkedin.svg" alt="Linkedin" width="40px" height="40px"></a> </p>  |  <p align="center" ><a href="https://twitter.com/daniele__bai" title="Twitter"><img src="./svgs/twitter.svg" alt="Twitter" width="40px" height="40px"></a> </p>  | <p align="center" ><a href="mailto:daniele.barile.lavoro@gmail.com" title="Gmail"><img src="./svgs/gmail.svg" alt="Gmail" width="40px" height="40px"></a> </p>  | <p align="center" ><a href="www.mylifeblike.com" title="Website"><img src="./svgs/website.svg" alt="Website" width="40px" height="40px"></a> </p>  |
    
 </div>
 
